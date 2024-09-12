@@ -25,7 +25,7 @@
 //  SOFTWARE.
 
 import Alamofire
-import Foundation
+import UIKit
 
 /// The level of logging detail.
 public enum NetworkActivityLoggerLevel {
